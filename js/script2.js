@@ -1,4 +1,4 @@
-// Somando 3 numeros
+// Somando 3 numeros //
 
 function soma(a , b, c) {
 

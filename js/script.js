@@ -1,3 +1,5 @@
+// Função simples, ela soma apenas 2 numeros //
+
 function soma(a , b) {
 
     let n1, n2;
